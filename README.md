@@ -1,1 +1,1 @@
-# WebTemplate--Responsive_Landpage
+A responsive one page website featuring flexbox design
